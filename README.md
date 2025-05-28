@@ -1,9 +1,3 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=awesome-devops-projects&fontAlignY=40&fontSize=50">
-
-
-
-
-
 I am a DevOps Engineer with hands-on experience in cloud, infrastructure, CI/CD, observability, and automation. I document all my projects (filtered by skills) in this [portfolio](http://rwxahmad.com/projects).
 
 If you're interested in hiring me, check out my [resume](http://rwxahmad.com/resume).
